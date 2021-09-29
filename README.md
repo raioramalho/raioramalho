@@ -6,4 +6,9 @@
 [![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black)](#)
 
 
-![Alan Ramalho GitHub Status](https://github-readme-stats.vercel.app/api?username=raioramalho&show_icons=true&theme=dark)
+[![Raspberry](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=black)](#)
+[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=black)](#)
+
+
+
+[![Alan Ramalho GitHub Status](https://github-readme-stats.vercel.app/api?username=raioramalho&show_icons=true&theme=dark)](#)
