@@ -13,7 +13,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/3b64adb0-ca65-422c-bc39-641f0569c21c.svg)](https://wakatime.com/@3b64adb0-ca65-422c-bc39-641f0569c21c)
 
-<img src="https://activity-graph.herokuapp.com/graph?username=raioramalho&theme=github-dark&hide_border=true&bg_color=transparent&area=true&area_color=581c87&custom_title=Gráfico%20de%20Contribuições"/>
+<img src="https://wakatime.com/badge/user/3b64adb0-ca65-422c-bc39-641f0569c21c.svg"/>
 
 <div align=center>
 
