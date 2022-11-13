@@ -15,9 +15,10 @@
 
 [![wakatime](https://wakatime.com/badge/user/3b64adb0-ca65-422c-bc39-641f0569c21c.svg)](https://wakatime.com/@3b64adb0-ca65-422c-bc39-641f0569c21c)
 
-[![Alan Ramalho GitHub Status](https://github-readme-stats.vercel.app/api?username=raioramalho&show_icons=true&theme=dark)](#)
+
 <div align=center>
 
  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=raioramalho&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800&locale=en" alt="rafeso" />
 
+<img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=raioramalho&theme=dark&hide_border=true" alt="raioramalho" />
 </div>
