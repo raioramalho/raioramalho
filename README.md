@@ -4,7 +4,7 @@
 <div align=center>
 <img src="https://wakatime.com/badge/user/3b64adb0-ca65-422c-bc39-641f0569c21c.svg"/>
 
-<img src="https://wakatime.com/share/@raioramalho/14f30292-4469-439c-af04-ed5769d039a4.svg"/>
+<img src="https://wakatime.com/share/@raioramalho/c0f62231-b080-4d12-90bb-16804a1781e0.svg"/>
 
 </div>
 
