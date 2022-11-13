@@ -4,6 +4,8 @@
 <div align=center>
 <img src="https://wakatime.com/badge/user/3b64adb0-ca65-422c-bc39-641f0569c21c.svg"/>
 
+<figure><embed src="https://wakatime.com/share/@raioramalho/14f30292-4469-439c-af04-ed5769d039a4.svg"></embed></figure>
+
 </div>
 
 <div align=center>
