@@ -13,6 +13,8 @@
 
 [![wakatime](https://wakatime.com/badge/user/3b64adb0-ca65-422c-bc39-641f0569c21c.svg)](https://wakatime.com/@3b64adb0-ca65-422c-bc39-641f0569c21c)
 
+<img src="https://activity-graph.herokuapp.com/graph?username=raioramalho&theme=github-dark&hide_border=true&bg_color=transparent&area=true&area_color=581c87&custom_title=Gráfico%20de%20Contribuições"/>
+
 <div align=center>
 
  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=raioramalho&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800&locale=en" alt="raioramalho" />
