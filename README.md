@@ -1,7 +1,8 @@
-<div align=center>
+<p align=center>
 
 <img src="https://github-profile-trophy.vercel.app/?username=raioramalho&theme=onedark&row=1&column=8&no-frame=true&no-bg=true"/>
-</div>
+</p>
+
 <div align=center>
 <img src="https://wakatime.com/badge/user/3b64adb0-ca65-422c-bc39-641f0569c21c.svg"/>
 
