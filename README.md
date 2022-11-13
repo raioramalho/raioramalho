@@ -1,4 +1,4 @@
-<div align="center"></div>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=raioramalho&theme=onedark&row=1&column=8&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black)](https://gmail.com/ramalho.sit@gmail.com)
