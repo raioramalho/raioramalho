@@ -12,7 +12,4 @@
 
 <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=raioramalho&theme=dark&hide_border=true" alt="raioramalho" />
 
-</div>
-<div align=center>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=raioramalho&show_icons=true&theme=dark&hide_border=true&locale=en&layout=default" alt="raioramalho" />
-</div>
+
