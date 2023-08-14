@@ -14,7 +14,7 @@
 
 
 <p align="center">
-   <img src="https://img.shields.io/badge/language-python-blue?style"/>
+   <img src="https://img.shields.io/badge/language-javascript"/>
    <img src="https://img.shields.io/github/license/anmol098/waka-readme-stats"/>
    <img src="https://img.shields.io/github/stars/anmol098/waka-readme-stats"/>
    <img src="https://img.shields.io/github/forks/anmol098/waka-readme-stats"/>
