@@ -6,14 +6,14 @@
 </p>
 <br>
 
-## 🚀 Oi, eu sou o Raioramalho!
+## 🚀 Oi, eu sou o Alan!
 
 [![wakatime](https://wakatime.com/badge/user/3b64adb0-ca65-422c-bc39-641f0569c21c.svg)](https://wakatime.com/@3b64adb0-ca65-422c-bc39-641f0569c21c)
 
 ### 💻 Linguagens e Ferramentas
 
-- TypeScript, NestJS, NextJs
 - Java, Java SE1.8, ERP Sankhya
+- TypeScript, NestJS, NextJs
 - AWS, Cloudflare, Azure
 - Linux (Ubuntu, macOS)
 
