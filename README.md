@@ -26,5 +26,5 @@
 ### 🔥 Streak Stats
 
 <div align="center">
-  <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=raioramalho&theme=dark&hide_border=true" alt="raioramalho" />
+  <img width="400em" src="https://github-readme-activity-graph.cyclic.app/graph?username=raioramalho&theme=react&hide_border=true" alt="atividade de contribuições" />
 </div>
