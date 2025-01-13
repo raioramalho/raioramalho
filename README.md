@@ -12,7 +12,7 @@
 
 ### 💻 Linguagens e Ferramentas
 
-- Java, Java SE1.8, ERP Sankhya
+- Java, Java SE1.8
 - TypeScript, NestJS, NextJs
 - AWS, Cloudflare, Azure
 - Linux (Ubuntu, macOS)
