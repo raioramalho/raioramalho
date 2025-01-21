@@ -12,10 +12,9 @@
 
 ### 💻 Linguagens e Ferramentas
 
-- Java, Java SE1.8
-- TypeScript, NestJS, NextJs
+- ShellScript, Java, TypeScript, JavaScript, Python, Php, C#, Perl, Ruby, Rust.
 - AWS, Cloudflare, Azure
-- Linux (Ubuntu, macOS)
+- Linux (Unix, macOS)
 
 ### 📈 Estatísticas
 
