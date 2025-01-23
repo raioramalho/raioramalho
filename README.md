@@ -13,8 +13,9 @@
 ### 💻 Linguagens e Ferramentas
 
 - ShellScript, Java, TypeScript, JavaScript, Python, Php, C#, Perl, Ruby, Rust.
-- AWS, Cloudflare, Azure
-- Linux (Unix, macOS)
+- AWS, Cloudflare, Azure, Vmware
+- Docker 
+- Linux (Unix, macOS) & Windows(só no cliente rs..)
 
 ### 📈 Estatísticas
 
