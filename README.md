@@ -15,7 +15,7 @@
 - ShellScript, Java, TypeScript, JavaScript, Python, Php, C#, Perl, Ruby, Rust.
 - AWS, Cloudflare, Azure, Vmware
 - Docker 
-- Linux (Unix, macOS) & Windows(só no cliente rs..)
+- Linux (Unix, macOS) & Windows(só no do cliente final kkk rs..)
 
 ### 📈 Estatísticas
 
