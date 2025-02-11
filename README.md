@@ -8,17 +8,23 @@
 
 ## 🚀 Oi, eu sou o Alan!
 
-[![wakatime](https://wakatime.com/badge/user/3b64adb0-ca65-422c-bc39-641f0569c21c.svg)](https://wakatime.com/@3b64adb0-ca65-422c-bc39-641f0569c21c)
+### 🏗️ Arquiteto de Soluções | Desenvolvedor & DevOps
 
-### 💻 Linguagens e Ferramentas
+Em constante evolução na área de **arquitetura de soluções**, tenho forte experiência em **backend**, **infraestrutura** e **modernização de sistemas**. Meu foco é criar soluções escaláveis e seguras, com visão estratégica para arquitetura e DevOps.
 
-- ShellScript, Java, TypeScript, JavaScript, Python, Php, C#, Perl, Ruby, Rust.
-- AWS, Cloudflare, Azure, Vmware
-- Docker 
-- Linux (Unix, macOS) & Windows(só no do cliente final kkk rs..)
+### 💻 Tech Stack
 
-### 📈 Estatísticas
+- **Linguagens & Frameworks:**  Java, TypeScript, JavaScript, Python, Shell Script.
+- **Bancos de Dados:** PostgreSQL, Redis, Oracle, MongoDB, ElasticSearch.
+- **Infra & DevOps:** Docker, Kubernetes, NGINX, GitHub Actions, Kafka.
+- **Cloud & Networking:** AWS, Cloudflare, Azure, VMware.
+- **Sistemas Operacionais:** Linux (Ubuntu, macOS) & Windows (apenas quando necessário 🤣).
 
-<div align="center">
-  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=raioramalho&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800&locale=en" alt="raioramalho" />
-</div>
+### 🛠️ O que eu faço?
+
+- 🔹 **Modernização de Sistemas** – Migração de aplicações legadas para arquiteturas modernas.
+- 🔹 **Cloud & DevOps** – Automação, CI/CD, segurança e escalabilidade.
+- 🔹 **Backend & APIs** – Desenvolvimento de serviços eficientes e bem estruturados.
+- 🔹 **Liderança Técnica** – Estratégia e implementação de soluções empresariais.
+
+📩 **Quer trocar uma ideia sobre arquitetura e tecnologia?** Me chama!
