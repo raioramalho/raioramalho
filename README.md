@@ -5,26 +5,33 @@
   </a>
 </p>
 <br>
+<br>
+<p align="center">
+  <a href="#">
+    <img src="https://github-profile-trophy.vercel.app/?username=raioramalho&theme=darkhub&no-frame=true&row=2&column=3&margin-w=30&margin-h=30" alt="raioramalho" />
+  </a>
+</p>
+<br>
 
-## 🚀 Oi, eu sou o Alan!
+## 🚀 Olá, sou Alan!
 
-### 🏗️ Arquiteto de Soluções | Desenvolvedor & DevOps
+### 🏗️ Arquiteto de Soluções | Especialista em Desenvolvimento e DevOps
 
-Em constante evolução na área de **arquitetura de soluções**, tenho forte experiência em **backend**, **infraestrutura** e **modernização de sistemas**. Meu foco é criar soluções escaláveis e seguras, com visão estratégica para arquitetura e DevOps.
+Atuo estrategicamente na **arquitetura de soluções**, com expertise consolidada em **backend**, **infraestrutura** e **modernização de sistemas**. Minha abordagem enfatiza a concepção de arquiteturas escaláveis, seguras e altamente eficientes, alinhadas às melhores práticas do setor.
 
-### 💻 Tech Stack
+### 💻 Competências Técnicas
 
-- **Linguagens & Frameworks:**  Java, TypeScript, JavaScript, Python, Shell Script.
+- **Linguagens & Frameworks:** Java, TypeScript, JavaScript, Python, Shell Script.
 - **Bancos de Dados:** PostgreSQL, Redis, Oracle, MongoDB, ElasticSearch.
-- **Infra & DevOps:** Docker, Kubernetes, NGINX, GitHub Actions, Kafka.
-- **Cloud & Networking:** AWS, Cloudflare, Azure, VMware.
-- **Sistemas Operacionais:** Linux (Ubuntu, macOS) & Windows (apenas quando necessário 🤣).
+- **Infraestrutura & DevOps:** Docker, Kubernetes, NGINX, GitHub Actions, Kafka.
+- **Computação em Nuvem & Redes:** AWS, Cloudflare, Azure, VMware.
+- **Sistemas Operacionais:** Linux (Ubuntu, macOS) & Windows (utilizado em ambientes específicos).
 
-### 🛠️ O que eu faço?
+### 🛠️ Áreas de Atuação
 
-- 🔹 **Modernização de Sistemas** – Migração de aplicações legadas para arquiteturas modernas.
-- 🔹 **Cloud & DevOps** – Automação, CI/CD, segurança e escalabilidade.
-- 🔹 **Backend & APIs** – Desenvolvimento de serviços eficientes e bem estruturados.
-- 🔹 **Liderança Técnica** – Estratégia e implementação de soluções empresariais.
+- 🔹 **Modernização de Sistemas** – Transformação de aplicações legadas para arquiteturas contemporâneas e resilientes.
+- 🔹 **Cloud & DevOps** – Automação avançada, CI/CD, governança de segurança e otimização de infraestrutura.
+- 🔹 **Backend & APIs** – Desenvolvimento de soluções eficientes, robustas e escaláveis.
+- 🔹 **Liderança Técnica** – Definição estratégica e implementação de soluções empresariais de alto impacto.
 
-📩 **Quer trocar uma ideia sobre arquitetura e tecnologia?** Me chama!
+📩 **Aberto para discussões sobre arquitetura, tecnologia e inovação. Vamos conversar!**
