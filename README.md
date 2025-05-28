@@ -11,7 +11,7 @@
 
 ### 🏗️ Arquiteto de Soluções | Especialista em Desenvolvimento e DevOps
 
-Aspirando para atuar estrategicamente na **Arquitetura de Soluções**, com expertise consolidada em **backend**, **infraestrutura** e **modernização de sistemas**. Minha abordagem enfatiza a concepção de arquiteturas escaláveis, seguras e altamente eficientes, alinhadas às melhores práticas do setor.
+**Arquiteto de Soluções**, com expertise consolidada em **backend**, **infraestrutura** e **modernização de sistemas**. Minha abordagem enfatiza a concepção de arquiteturas escaláveis, seguras e altamente eficientes, alinhadas às melhores práticas do setor.
 
 ### 💻 Competências Técnicas
 
