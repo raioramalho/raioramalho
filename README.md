@@ -19,7 +19,7 @@
 - **Bancos de Dados:** PostgreSQL, Redis, Oracle, MongoDB, ElasticSearch.
 - **Infraestrutura & DevOps:** Docker, Kubernetes, NGINX, GitHub Actions, Kafka.
 - **Computação em Nuvem & Redes:** AWS, Cloudflare, Azure, VMware.
-- **Sistemas Operacionais:** Linux (Ubuntu, macOS) & Windows (utilizado em ambientes específicos).
+- **Sistemas Operacionais:** Linux, macOS & Windows (Só no cliente kk).
 
 ### 🛠️ Áreas de Atuação
 
