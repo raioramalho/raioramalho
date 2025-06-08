@@ -1,31 +1,32 @@
-<br>
 <p align="center">
-  <a href="#">
-    <img src="https://github-profile-trophy.vercel.app/?username=raioramalho&theme=darkhub&no-frame=true&row=2&column=3&margin-w=30&margin-h=30" alt="raioramalho" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=raioramalho&theme=darkhub&no-frame=true&row=2&column=3&margin-w=25&margin-h=25" alt="GitHub trophies" />
 </p>
-<br>
-<br>
 
-## 🚀 Olá, sou Alan!
+<h1 align="center">🚀 Olá, sou Alan!</h1>
 
-### 🏗️ Arquiteto de Soluções | Especialista em Desenvolvimento e DevOps
+<p align="center">
+  Arquiteto de Soluções com foco em modernização de sistemas, desenvolvimento e DevOps.
+</p>
 
-**Arquiteto de Soluções**, com expertise consolidada em **backend**, **infraestrutura** e **modernização de sistemas**. Minha abordagem enfatiza a concepção de arquiteturas escaláveis, seguras e altamente eficientes, alinhadas às melhores práticas do setor.
+## Sobre mim
 
-### 💻 Competências Técnicas
+Atuo com **backend**, **infraestrutura** e **DevOps**, concebendo arquiteturas escaláveis e seguras alinhadas às melhores práticas do mercado.
 
-- **Linguagens & Frameworks:** Java, TypeScript, JavaScript, Python, Shell Script.
-- **Bancos de Dados:** PostgreSQL, Redis, Oracle, MongoDB, ElasticSearch.
-- **Infraestrutura & DevOps:** Docker, Kubernetes, NGINX, GitHub Actions, Kafka.
-- **Computação em Nuvem & Redes:** AWS, Cloudflare, Azure, VMware.
-- **Sistemas Operacionais:** Linux, macOS & Windows (Só no cliente kk).
+## Principais Competências
 
-### 🛠️ Áreas de Atuação
+- **Linguagens & Frameworks:** Java, TypeScript, JavaScript, Python e Shell Script
+- **Bancos de Dados:** PostgreSQL, Redis, Oracle, MongoDB e ElasticSearch
+- **Infraestrutura & DevOps:** Docker, Kubernetes, NGINX, GitHub Actions e Kafka
+- **Nuvem & Redes:** AWS, Cloudflare, Azure e VMware
+- **Sistemas Operacionais:** Linux, macOS e Windows
 
-- 🔹 **Modernização de Sistemas** – Transformação de aplicações legadas para arquiteturas contemporâneas e resilientes.
-- 🔹 **Cloud & DevOps** – Automação avançada, CI/CD, governança de segurança e otimização de infraestrutura.
-- 🔹 **Backend & APIs** – Desenvolvimento de soluções eficientes, robustas e escaláveis.
-- 🔹 **Liderança Técnica** – Definição estratégica e implementação de soluções empresariais de alto impacto.
+## Áreas de Atuação
 
-📩 **Aberto para discussões sobre arquitetura, tecnologia e inovação. Vamos conversar!**
+- **Modernização de Sistemas** – Transformação de aplicações legadas em soluções modernas e resilientes
+- **Cloud & DevOps** – Automação, CI/CD, governança de segurança e otimização de infraestrutura
+- **Backend & APIs** – Desenvolvimento de soluções robustas e escaláveis
+- **Liderança Técnica** – Definição e implementação de estratégias de alto impacto
+
+---
+
+📬 **Vamos conversar?** Aberto a discussões sobre arquitetura, tecnologia e inovação.
