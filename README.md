@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=raioramalho&theme=onedark&no-frame=true&no-bg=true&column=4&title=Followers,Stars,Commits,Repositories" />
+  <img src="https://github-profile-trophy.vercel.app/?username=raioramalho&theme=onedark&no-frame=true&no-bg=true&column=6&title=Followers,Stars,Commits,PullRequest,Repositories,Experience" />
 </p>
+
 
 
 <h1 align="center">Olá, sou Alan Ramalho</h1>
