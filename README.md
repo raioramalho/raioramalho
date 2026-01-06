@@ -2,31 +2,63 @@
   <img src="https://github-profile-trophy.vercel.app/?username=raioramalho&theme=darkhub&no-frame=true&row=2&column=3&margin-w=25&margin-h=25" alt="GitHub trophies" />
 </p>
 
-<h1 align="center">🚀 Olá, sou Alan!</h1>
+<h1 align="center">Olá, sou Alan Ramalho</h1>
 
 <p align="center">
-  Arquiteto de Soluções com foco em modernização de sistemas, desenvolvimento e DevOps.
+  Arquiteto de Soluções focado em modernização de sistemas, cloud, eficiência operacional e tomada de decisão técnica orientada a negócio.
 </p>
-
-## Sobre mim
-
-Atuo com **backend**, **infraestrutura** e **DevOps**, concebendo arquiteturas escaláveis e seguras alinhadas às melhores práticas do mercado.
-
-## Principais Competências
-
-- **Linguagens & Frameworks:** Java, TypeScript, JavaScript, Python e Shell Script
-- **Bancos de Dados:** PostgreSQL, Redis, Oracle, MongoDB e ElasticSearch
-- **Infraestrutura & DevOps:** Docker, Kubernetes, NGINX, GitHub Actions e Kafka
-- **Nuvem & Redes:** AWS, Cloudflare, Azure e VMware
-- **Sistemas Operacionais:** Linux, macOS e Windows
-
-## Áreas de Atuação
-
-- **Modernização de Sistemas** – Transformação de aplicações legadas em soluções modernas e resilientes
-- **Cloud & DevOps** – Automação, CI/CD, governança de segurança e otimização de infraestrutura
-- **Backend & APIs** – Desenvolvimento de soluções robustas e escaláveis
-- **Liderança Técnica** – Definição e implementação de estratégias de alto impacto
 
 ---
 
-📬 **Vamos conversar?** Aberto a discussões sobre arquitetura, tecnologia e inovação.
+## Sobre mim
+
+Atuo como **Arquiteto de Soluções / Engenheiro de Plataforma**, trabalhando na interseção entre **arquitetura, engenharia e estratégia**.  
+Meu foco é desenhar e evoluir sistemas que sejam **escaláveis, resilientes, economicamente sustentáveis e operáveis no mundo real**.
+
+Trabalho principalmente com:
+- Modernização de plataformas legadas
+- Migração e desenho de arquiteturas em cloud
+- Padronização de plataformas e práticas (Landing Zones, CI/CD, observabilidade, segurança)
+- Apoio técnico a decisões de negócio (trade-offs, custo, risco, viabilidade)
+
+---
+
+## Como eu gero valor
+
+- **Arquitetura orientada a trade-offs**: desempenho, custo, segurança, operabilidade e time-to-market.
+- **Modernização pragmática**: sair do legado sem reescrever o mundo inteiro.
+- **Plataforma e governança**: menos snowflake, mais padrão reutilizável.
+- **Eficiência**: reduzir custo, fricção operacional e dependência manual.
+
+---
+
+## Principais Competências Técnicas
+
+**Linguagens & Frameworks**  
+Java, TypeScript, JavaScript, Python, Shell Script
+
+**Dados**  
+PostgreSQL, Redis, Oracle, MongoDB, ElasticSearch
+
+**Plataforma & DevOps**  
+Docker, Kubernetes, GitHub Actions, NGINX, Kafka
+
+**Cloud & Infraestrutura**  
+Google Cloud, AWS, Azure, Cloudflare, VMware
+
+**Sistemas**  
+Linux, macOS, Windows
+
+---
+
+## Áreas de Atuação
+
+- **Arquitetura de Soluções** — desenho de sistemas distribuídos, migrações, integrações e governança
+- **Cloud & Plataforma** — landing zones, CI/CD, observabilidade, segurança e operação
+- **Modernização** — refatoração, desacoplamento, adoção de eventos e serviços gerenciados
+- **Apoio estratégico** — pré-vendas, validação técnica, estimativas, riscos e viabilidade
+
+---
+
+📬 **Contato**  
+Aberto a conversas sobre arquitetura, cloud, modernização e decisões técnicas complexas.
