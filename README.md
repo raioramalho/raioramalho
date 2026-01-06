@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=raioramalho&theme=onedark&no-frame=true&no-bg=true&column=6&title=Followers,Stars,Commits,PullRequest,Repositories,Experience" />
+  <img src="https://github-readme-stats.vercel.app/api?username=raioramalho&show_icons=true&hide_title=true&count_private=true&theme=onedark" />
 </p>
 
 
