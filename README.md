@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=raioramalho&theme=darkhub&no-frame=true&row=2&column=3&margin-w=25&margin-h=25" alt="GitHub trophies" />
+  [![trophy](https://github-profile-trophy.vercel.app/?username=raioramalho&theme=onedark)](https://github.com/raioramalho/github-profile-trophy)
 </p>
 
 <h1 align="center">Olá, sou Alan Ramalho</h1>
@@ -44,7 +44,7 @@ PostgreSQL, Redis, Oracle, MongoDB, ElasticSearch
 Docker, Kubernetes, GitHub Actions, NGINX, Kafka
 
 **Cloud & Infraestrutura**  
-Google Cloud, AWS, Azure, Cloudflare, VMware
+Google Cloud, AWS, Azure, Cloudflare, VMware, Proxmox
 
 **Sistemas**  
 Linux, macOS, Windows
