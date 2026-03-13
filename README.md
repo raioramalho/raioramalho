@@ -2,65 +2,87 @@
   <img src="https://github-readme-stats.vercel.app/api?username=raioramalho&show_icons=true&hide_title=true&count_private=true&theme=onedark" />
 </p>
 
-
-
-<h1 align="center">Olá, sou Alan Ramalho</h1>
+<h1 align="center">Alan Ramalho</h1>
 
 <p align="center">
-  Arquiteto de Soluções focado em modernização de sistemas, cloud, eficiência operacional e tomada de decisão técnica orientada a negócio.
+Solutions Architect • Head of Technology • Cloud & Platform Engineering
+</p>
+
+<p align="center">
+Arquitetura de sistemas, plataformas escaláveis e decisões tecnológicas orientadas a negócio.
 </p>
 
 ---
 
-## Sobre mim
+## Quem sou
 
-Atuo como **Arquiteto de Soluções / Engenheiro de Plataforma**, trabalhando na interseção entre **arquitetura, engenharia e estratégia**.  
-Meu foco é desenhar e evoluir sistemas que sejam **escaláveis, resilientes, economicamente sustentáveis e operáveis no mundo real**.
+Atuo liderando **arquitetura de sistemas e direção tecnológica**, conectando engenharia, produto e estratégia.
 
-Trabalho principalmente com:
-- Modernização de plataformas legadas
-- Migração e desenho de arquiteturas em cloud
-- Padronização de plataformas e práticas (Landing Zones, CI/CD, observabilidade, segurança)
-- Apoio técnico a decisões de negócio (trade-offs, custo, risco, viabilidade)
+Meu trabalho é garantir que decisões técnicas sejam **sustentáveis no longo prazo**, equilibrando:
 
----
+- escalabilidade
+- custo
+- risco
+- operabilidade
+- velocidade de entrega
 
-## Como eu gero valor
-
-- **Arquitetura orientada a trade-offs**: desempenho, custo, segurança, operabilidade e time-to-market.
-- **Modernização pragmática**: sair do legado sem reescrever o mundo inteiro.
-- **Plataforma e governança**: menos snowflake, mais padrão reutilizável.
-- **Eficiência**: reduzir custo, fricção operacional e dependência manual.
+Tenho experiência estruturando **plataformas cloud, modernização de sistemas e arquiteturas distribuídas**, ajudando empresas a evoluir de ambientes legados para plataformas modernas e resilientes.
 
 ---
 
-## Principais Competências Técnicas
+## Áreas de Liderança
 
-**Linguagens & Frameworks**  
-Java, TypeScript, JavaScript, Python, Shell Script
+**Arquitetura de Sistemas**
+- arquitetura de plataformas distribuídas
+- desenho de sistemas cloud-native
+- eventos, APIs e integração de serviços
 
-**Dados**  
-PostgreSQL, Redis, Oracle, MongoDB, ElasticSearch
+**Direção Tecnológica**
+- definição de stack e padrões de engenharia
+- governança técnica
+- trade-offs entre custo, risco e velocidade
 
-**Plataforma & DevOps**  
-Docker, Kubernetes, GitHub Actions, NGINX, Kafka
+**Cloud & Plataforma**
+- landing zones
+- Kubernetes e plataformas de execução
+- CI/CD, observabilidade e segurança
 
-**Cloud & Infraestrutura**  
-Google Cloud, AWS, Azure, Cloudflare, VMware, Proxmox
-
-**Sistemas**  
-Linux, macOS, Windows
-
----
-
-## Áreas de Atuação
-
-- **Arquitetura de Soluções** — desenho de sistemas distribuídos, migrações, integrações e governança
-- **Cloud & Plataforma** — landing zones, CI/CD, observabilidade, segurança e operação
-- **Modernização** — refatoração, desacoplamento, adoção de eventos e serviços gerenciados
-- **Apoio estratégico** — pré-vendas, validação técnica, estimativas, riscos e viabilidade
+**Modernização**
+- refatoração de monólitos
+- adoção de serviços gerenciados
+- evolução arquitetural incremental
 
 ---
 
-📬 **Contato**  
-Aberto a conversas sobre arquitetura, cloud, modernização e decisões técnicas complexas.
+## Stack e Ecossistema Técnico
+
+**Linguagens**
+Java • TypeScript • Python • Shell
+
+**Dados**
+PostgreSQL • Redis • MongoDB • ElasticSearch • Oracle
+
+**Plataforma**
+Docker • Kubernetes • Kafka • NGINX • GitHub Actions
+
+**Cloud**
+Google Cloud • AWS • Azure • Cloudflare
+
+**Infraestrutura**
+Linux • VMware • Proxmox
+
+---
+
+## Temas que estudo e aplico
+
+- arquitetura de sistemas distribuídos
+- engenharia de plataforma
+- cloud economics
+- confiabilidade de sistemas (SRE)
+- observabilidade e operação
+
+---
+
+📬 **Contato**
+
+Aberto para conversar sobre arquitetura, cloud, modernização de plataformas e estratégia tecnológica.
